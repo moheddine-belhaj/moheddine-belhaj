@@ -41,7 +41,7 @@ I'm a Software Engineer specializing in Go, TypeScript, Vue.js, Nuxt.js and oper
 - **Methodologies:** Scrum / Agile
 
 ##  Featured Projects
-- **[Lidl Store Search Platform](https://www.lidl.com):** Led PROD/QA deployments across multiple European countries. Developed store discovery features, interactive Bing Maps visualization, and location-based search with synchronized UI state management.
+- **[Lidl Store Search Platform](https://www.lidl.de/s/de-DE/filialen/):** Led PROD/QA deployments across multiple European countries. Developed store discovery features, interactive Bing Maps visualization, and location-based search with synchronized UI state management.
 
 
 ##  How to reach me
