@@ -1,16 +1,19 @@
-## Hi there 👋
+  ## Hi there 👋
 
-<!--
-**moheddine-belhaj/moheddine-belhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a Software Engineer.
+- 🔭 I’m currently working on Website
+- 🌱 I’m currently learning Kubernetes
+- 💬 Ask me about [Your Expertise]
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks:** React, Node.js, Vue
+- **Tools:** Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Project 1](Link):** A brief description of what it does and the tech stack.
+
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your-LinkedIn-URL](https://www.linkedin.com/in/moheddine-belhaj-alaya/))
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mohedine-belhaj.com)
