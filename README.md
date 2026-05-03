@@ -1,6 +1,6 @@
-## Hi there 👋
 
-## 🧑‍💻 About Me
+
+##  About Me
 I'm a Software Engineer specializing in Go, TypeScript, Vue.js, Nuxt.js and operational excellence. I successfully lead Production and QA deployments across multiple European countries using Azure DevOps CI/CD.
 
 - 🔭 I’m currently working on Website development and deployment
@@ -27,7 +27,7 @@ I'm a Software Engineer specializing in Go, TypeScript, Vue.js, Nuxt.js and oper
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 </div>
 
-## 🛠️ Technical Skills
+##  Technical Skills
 - **Languages:** Go, TypeScript, JavaScript, Python, C/C++
 - **Frontend:** Vue.js, Nuxt.js, React, React Native
 - **Backend:** Node.js, Express.js
@@ -36,11 +36,11 @@ I'm a Software Engineer specializing in Go, TypeScript, Vue.js, Nuxt.js and oper
 - **Testing:** Playwright E2E, Unit Testing
 - **Methodologies:** Scrum / Agile
 
-## 🚀 Featured Projects
+##  Featured Projects
 - **[Lidl Store Search Platform](https://www.lidl.com):** Led PROD/QA deployments across multiple European countries. Developed store discovery features, interactive Bing Maps visualization, and location-based search with synchronized UI state management.
 
 
-## 📫 How to reach me
+##  How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moheddine-belhaj-alaya/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mohedine-belhaj.com)
