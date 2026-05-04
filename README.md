@@ -5,7 +5,7 @@ I'm a Software Engineer specializing in Go, TypeScript, Vue.js, Nuxt.js and oper
 
 - 🔭 I’m currently working on Website development and deployment
 - 🌱 I’m currently learning Kubernetes (CKAD certified)
-- 💬 Ask me about Go, Vue.js, Azure DevOps, or AI Prompt Engineering
+- 💬 Ask me about Go, Vue.js, Azure DevOps, or AI lastest updates
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
