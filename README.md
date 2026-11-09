@@ -66,6 +66,7 @@ Backend-focused engineer who builds end to end: design, code, CI/CD, deploy and 
 
 ## Certifications
 - Programming with Go Specialization (Coursera)
+- Build a cloud track (Arkadia - STACKIT)
 - Kubernetes Certified Application Developer (CKAD) with Tests (Udemy)
 
 ## How to reach me
