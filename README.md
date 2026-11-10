@@ -3,9 +3,9 @@
 
 Backend-focused engineer who builds end to end: design, code, CI/CD, deploy and monitor.
 
-- 🔭 Building **MyCloud**, an object-storage PaaS running on my own 2-node k3s home lab
-- 🌱 Learning more DevOps and cloud engineering: GitOps, observability, secrets management and monotoring
-- 💬 Ask me about Go, Kubernetes, Argo CD, or self-hosting
+-  Building **MyCloud**, an object-storage PaaS running on my own 2-node k3s home lab
+-  Learning more DevOps and cloud engineering: GitOps, observability, secrets management and monotoring
+-  Open for talk about Go, Kubernetes, Argo CD, or self-hosting
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" title="Go" />
